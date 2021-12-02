@@ -1,3 +1,8 @@
 this is the second project.
+<<<<<<< HEAD
 will work hard|
 one place
+=======
+will work hard
+bring the thing 
+>>>>>>> refs/remotes/origin/main
